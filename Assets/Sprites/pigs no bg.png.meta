@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: 34d268290b218fe4f809e3d8e2e5a707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1887478974223966587
+    second: pigs no bg_0
+  - first:
+      213: 7975753941529127210
+    second: pigs no bg_1
+  - first:
+      213: -6632711027227953401
+    second: pigs no bg_2
+  - first:
+      213: 2883340885488606276
+    second: pigs no bg_3
+  - first:
+      213: 3029452880206617467
+    second: pigs no bg_4
+  - first:
+      213: -5102246873930791409
+    second: pigs no bg_5
+  - first:
+      213: 7927761847890218354
+    second: pigs no bg_6
+  - first:
+      213: -1345619196484131316
+    second: pigs no bg_7
+  - first:
+      213: 3953221466982742189
+    second: pigs no bg_8
+  - first:
+      213: 6633410364789866267
+    second: pigs no bg_9
+  - first:
+      213: -3777925837952984279
+    second: pigs no bg_10
+  - first:
+      213: 7995032857593710275
+    second: pigs no bg_11
+  - first:
+      213: 853790523854824411
+    second: pigs no bg_12
+  - first:
+      213: 2656349097495881084
+    second: pigs no bg_13
+  - first:
+      213: 6531038673899881098
+    second: pigs no bg_14
+  - first:
+      213: -4106365703813980942
+    second: pigs no bg_15
+  - first:
+      213: 5029997390201502561
+    second: pigs no bg_16
+  - first:
+      213: -7007631665397226531
+    second: pigs no bg_17
+  - first:
+      213: 1167276994373226899
+    second: pigs no bg_18
+  - first:
+      213: -427904809447395695
+    second: pigs no bg_19
+  - first:
+      213: 1554551831916217162
+    second: pigs no bg_20
+  - first:
+      213: -4560932768065855154
+    second: pigs no bg_21
+  - first:
+      213: 9048124478343085139
+    second: pigs no bg_22
+  - first:
+      213: 3906511195542244676
+    second: pigs no bg_23
+  - first:
+      213: 1646777361018712377
+    second: pigs no bg_24
+  - first:
+      213: -9212248999962177690
+    second: pigs no bg_25
+  - first:
+      213: 4605431897334418634
+    second: pigs no bg_26
+  - first:
+      213: -8871996009007838569
+    second: pigs no bg_27
+  - first:
+      213: 2630608217464687916
+    second: pigs no bg_28
+  - first:
+      213: -822100654436666516
+    second: pigs no bg_29
+  - first:
+      213: -181594578597309316
+    second: pigs no bg_30
+  - first:
+      213: -6527513889194589841
+    second: pigs no bg_31
+  - first:
+      213: 2347616642318651744
+    second: pigs no bg_32
+  - first:
+      213: 4008535441170425794
+    second: pigs no bg_33
+  - first:
+      213: -3497148961641101476
+    second: pigs no bg_34
+  - first:
+      213: 4690637071740910558
+    second: pigs no bg_35
+  - first:
+      213: -4920972278518277176
+    second: pigs no bg_36
+  - first:
+      213: -2609640296720224154
+    second: pigs no bg_37
+  - first:
+      213: 133977128411983503
+    second: pigs no bg_38
+  - first:
+      213: -5850311681847491827
+    second: pigs no bg_39
+  - first:
+      213: 6011567185857010935
+    second: pigs no bg_40
+  - first:
+      213: -8231646258271767559
+    second: pigs no bg_41
+  - first:
+      213: -2524137876633252568
+    second: pigs no bg_42
+  - first:
+      213: -7107426072636348755
+    second: pigs no bg_43
+  - first:
+      213: 3980049067566452458
+    second: pigs no bg_44
+  - first:
+      213: 6591788569261842503
+    second: pigs no bg_45
+  - first:
+      213: 6381174473060780490
+    second: pigs no bg_46
+  - first:
+      213: 8800578338728119617
+    second: pigs no bg_47
+  - first:
+      213: 9121764538035500065
+    second: pigs no bg_48
+  - first:
+      213: 193710145224025728
+    second: pigs no bg_49
+  - first:
+      213: -8096016122094711898
+    second: pigs no bg_50
+  - first:
+      213: -4353268351360234817
+    second: pigs no bg_51
+  - first:
+      213: -711160296650442002
+    second: pigs no bg_52
+  - first:
+      213: 6859309542713607266
+    second: pigs no bg_53
+  - first:
+      213: 6265660697474836213
+    second: pigs no bg_54
+  - first:
+      213: 7220912089172032414
+    second: pigs no bg_55
+  - first:
+      213: 5802739994308760705
+    second: pigs no bg_56
+  - first:
+      213: 2956166652155816740
+    second: pigs no bg_57
+  - first:
+      213: -720397209383663117
+    second: pigs no bg_58
+  - first:
+      213: 7545960768477716352
+    second: pigs no bg_59
+  - first:
+      213: 2975013255255898348
+    second: pigs no bg_60
+  - first:
+      213: 542738775072949603
+    second: pigs no bg_61
+  - first:
+      213: -4228059044988421245
+    second: pigs no bg_62
+  - first:
+      213: -3107167765046682746
+    second: pigs no bg_63
+  - first:
+      213: -6289522208716377704
+    second: pigs no bg_64
+  - first:
+      213: -5501854372204196536
+    second: pigs no bg_65
+  - first:
+      213: -8908152093815038013
+    second: pigs no bg_66
+  - first:
+      213: -3899973947556786184
+    second: pigs no bg_67
+  - first:
+      213: -7071140920095469482
+    second: pigs no bg_68
+  - first:
+      213: 126035438432191522
+    second: pigs no bg_69
+  - first:
+      213: 3556542790339900055
+    second: pigs no bg_70
+  - first:
+      213: -1878054267843014747
+    second: pigs no bg_71
+  - first:
+      213: -7829674143236632558
+    second: pigs no bg_72
+  - first:
+      213: -470283092221399080
+    second: pigs no bg_73
+  - first:
+      213: 8315731962565950986
+    second: pigs no bg_74
+  - first:
+      213: 6438728175326908221
+    second: pigs no bg_75
+  - first:
+      213: 6145131817381014736
+    second: pigs no bg_76
+  - first:
+      213: -6022247718310855820
+    second: pigs no bg_77
+  - first:
+      213: 8348290149834340389
+    second: pigs no bg_78
+  - first:
+      213: -1041236897151940589
+    second: pigs no bg_79
+  - first:
+      213: -3068486973599747380
+    second: pigs no bg_80
+  - first:
+      213: 1552405897734546573
+    second: pigs no bg_81
+  - first:
+      213: 6823884325106010559
+    second: pigs no bg_82
+  - first:
+      213: 5842675146004710305
+    second: pigs no bg_83
+  - first:
+      213: 4591455253341268361
+    second: pigs no bg_84
+  - first:
+      213: 15022502524979560
+    second: pigs no bg_85
+  - first:
+      213: 6040465648212624717
+    second: pigs no bg_86
+  - first:
+      213: 3426119481340706414
+    second: pigs no bg_87
+  - first:
+      213: 1240759336514717973
+    second: pigs no bg_88
+  - first:
+      213: -828510615238900817
+    second: pigs no bg_89
+  - first:
+      213: 5500989942135711757
+    second: pigs no bg_90
+  - first:
+      213: -4634178419896515954
+    second: pigs no bg_91
+  - first:
+      213: -1967963376580776219
+    second: pigs no bg_92
+  - first:
+      213: -8292379770285366783
+    second: pigs no bg_93
+  - first:
+      213: 673820602253714541
+    second: pigs no bg_94
+  - first:
+      213: 2889991823838924521
+    second: pigs no bg_95
+  - first:
+      213: -7148143783207468579
+    second: pigs no bg_96
+  - first:
+      213: -96493378504003724
+    second: pigs no bg_97
+  - first:
+      213: 2470111349931359387
+    second: pigs no bg_98
+  - first:
+      213: 2695062225252590213
+    second: pigs no bg_99
+  - first:
+      213: 6918327595554565655
+    second: pigs no bg_100
+  - first:
+      213: 8803082050656107222
+    second: pigs no bg_101
+  - first:
+      213: -6832985773237567744
+    second: pigs no bg_102
+  - first:
+      213: 4728297598574915670
+    second: pigs no bg_103
+  - first:
+      213: 3647337525321795393
+    second: pigs no bg_104
+  - first:
+      213: 4304514994560194539
+    second: pigs no bg_105
+  - first:
+      213: 514245429056577059
+    second: pigs no bg_106
+  - first:
+      213: -8338354748636098994
+    second: pigs no bg_107
+  - first:
+      213: 5827162721586610978
+    second: pigs no bg_108
+  - first:
+      213: 2230015118608852636
+    second: pigs no bg_109
+  - first:
+      213: 3834342326617792913
+    second: pigs no bg_110
+  - first:
+      213: -526623280807425594
+    second: pigs no bg_111
+  - first:
+      213: -7090174778657068452
+    second: pigs no bg_112
+  - first:
+      213: 8226726864097281467
+    second: pigs no bg_113
+  - first:
+      213: -7717591074907750365
+    second: pigs no bg_114
+  - first:
+      213: 8833464285335414325
+    second: pigs no bg_115
+  - first:
+      213: -4605471784260148152
+    second: pigs no bg_116
+  - first:
+      213: -8028424231864098227
+    second: pigs no bg_117
+  - first:
+      213: 4480335473055678876
+    second: pigs no bg_118
+  - first:
+      213: -2098698511755585889
+    second: pigs no bg_119
+  - first:
+      213: 4308345733814336620
+    second: pigs no bg_120
+  - first:
+      213: -51981403532130431
+    second: pigs no bg_121
+  - first:
+      213: -4102614336611326119
+    second: pigs no bg_122
+  - first:
+      213: 7170808961698677363
+    second: pigs no bg_123
+  - first:
+      213: -7731648141337259140
+    second: pigs no bg_124
+  - first:
+      213: -3547522240593710417
+    second: pigs no bg_125
+  - first:
+      213: -4418357711522160114
+    second: pigs no bg_126
+  - first:
+      213: -6122249631252250771
+    second: pigs no bg_127
+  - first:
+      213: 3945136294093138321
+    second: pigs no bg_128
+  - first:
+      213: 2592941098694405772
+    second: pigs no bg_129
+  - first:
+      213: -4121144370033470259
+    second: pigs no bg_130
+  - first:
+      213: -2524703501063415033
+    second: pigs no bg_131
+  - first:
+      213: 232947827886632518
+    second: pigs no bg_132
+  - first:
+      213: 7556683437239616515
+    second: pigs no bg_133
+  - first:
+      213: -8359483872648026945
+    second: pigs no bg_134
+  - first:
+      213: -4796647538180923786
+    second: pigs no bg_135
+  - first:
+      213: 338260291806146613
+    second: pigs no bg_136
+  - first:
+      213: 2985222038878335948
+    second: pigs no bg_137
+  - first:
+      213: 1114990834613167342
+    second: pigs no bg_138
+  - first:
+      213: -417614686669580593
+    second: pigs no bg_139
+  - first:
+      213: 8547313355818758140
+    second: pigs no bg_140
+  - first:
+      213: 4016336245617692417
+    second: pigs no bg_141
+  - first:
+      213: -2057582916429540203
+    second: pigs no bg_142
+  - first:
+      213: -5245090612289814373
+    second: pigs no bg_143
+  - first:
+      213: -4967573509055083316
+    second: pigs no bg_144
+  - first:
+      213: -4903942321833252165
+    second: pigs no bg_145
+  - first:
+      213: -536778577707921918
+    second: pigs no bg_146
+  - first:
+      213: 8145051442082224909
+    second: pigs no bg_147
+  - first:
+      213: 578454315217623917
+    second: pigs no bg_148
+  - first:
+      213: 664779544630828384
+    second: pigs no bg_149
+  - first:
+      213: 5857052821541499737
+    second: pigs no bg_150
+  - first:
+      213: 4370660891463129503
+    second: pigs no bg_151
+  - first:
+      213: -8720837229462761867
+    second: pigs no bg_152
+  - first:
+      213: 4595934330176752768
+    second: pigs no bg_153
+  - first:
+      213: -3442879237820407845
+    second: pigs no bg_154
+  - first:
+      213: -1068113854464595927
+    second: pigs no bg_155
+  - first:
+      213: -8819539701020725830
+    second: pigs no bg_156
+  - first:
+      213: -8129479937223077633
+    second: pigs no bg_157
+  - first:
+      213: -8980641975168539410
+    second: pigs no bg_158
+  - first:
+      213: 8347647631020503870
+    second: pigs no bg_159
+  - first:
+      213: -8906815644350947651
+    second: pigs no bg_160
+  - first:
+      213: -1338343070325129460
+    second: pigs no bg_161
+  - first:
+      213: 2260994133279778713
+    second: pigs no bg_162
+  - first:
+      213: -5318169612195072419
+    second: pigs no bg_163
+  - first:
+      213: 55325808496787166
+    second: pigs no bg_164
+  - first:
+      213: -2137745947387358289
+    second: pigs no bg_165
+  - first:
+      213: 7823531106820823510
+    second: pigs no bg_166
+  - first:
+      213: -5688108290504065709
+    second: pigs no bg_167
+  - first:
+      213: -4956993875129887587
+    second: pigs no bg_168
+  - first:
+      213: 5929936416028601851
+    second: pigs no bg_169
+  - first:
+      213: -2090928831117868225
+    second: pigs no bg_170
+  - first:
+      213: 514316256717604517
+    second: pigs no bg_171
+  - first:
+      213: -5088667198086262085
+    second: pigs no bg_172
+  - first:
+      213: -3040119687755796426
+    second: pigs no bg_173
+  - first:
+      213: -2154107824792154251
+    second: pigs no bg_174
+  - first:
+      213: -8875828165605488810
+    second: pigs no bg_175
+  - first:
+      213: 3513751813122352635
+    second: pigs no bg_176
+  - first:
+      213: -6344524794583189672
+    second: pigs no bg_177
+  - first:
+      213: -2594032029276362672
+    second: pigs no bg_178
+  - first:
+      213: 1042422074925856179
+    second: pigs no bg_179
+  - first:
+      213: -1923370812612584829
+    second: pigs no bg_180
+  - first:
+      213: -8911675839520737950
+    second: pigs no bg_181
+  - first:
+      213: -2417103684700467179
+    second: pigs no bg_182
+  - first:
+      213: -5178599614654544648
+    second: pigs no bg_183
+  - first:
+      213: 7290958446813298106
+    second: pigs no bg_184
+  - first:
+      213: 1435183534652252518
+    second: pigs no bg_185
+  - first:
+      213: 4217102876333613260
+    second: pigs no bg_186
+  - first:
+      213: 3141488550241780587
+    second: pigs no bg_187
+  - first:
+      213: 7939679238604720241
+    second: pigs no bg_188
+  - first:
+      213: -360426389229605359
+    second: pigs no bg_189
+  - first:
+      213: -2049521088105364810
+    second: pigs no bg_190
+  - first:
+      213: -5983286258675752655
+    second: pigs no bg_191
+  - first:
+      213: -2946724593649463866
+    second: pigs no bg_192
+  - first:
+      213: -8430714468564471088
+    second: pigs no bg_193
+  - first:
+      213: -6905831766743980551
+    second: pigs no bg_194
+  - first:
+      213: 3369649498613236001
+    second: pigs no bg_195
+  - first:
+      213: 5289598325401393736
+    second: pigs no bg_196
+  - first:
+      213: 6072260787533694057
+    second: pigs no bg_197
+  - first:
+      213: 4811310538237232851
+    second: pigs no bg_198
+  - first:
+      213: -3715997915342152412
+    second: pigs no bg_199
+  - first:
+      213: 9068196889102609376
+    second: pigs no bg_200
+  - first:
+      213: -8638140825365079489
+    second: pigs no bg_201
+  - first:
+      213: 5042595423720857252
+    second: pigs no bg_202
+  - first:
+      213: 3659609356643341366
+    second: pigs no bg_203
+  - first:
+      213: -3457147545416320531
+    second: pigs no bg_204
+  - first:
+      213: -1030753291088368966
+    second: pigs no bg_205
+  - first:
+      213: -3580411382189627113
+    second: pigs no bg_206
+  - first:
+      213: 5942578411954242526
+    second: pigs no bg_207
+  - first:
+      213: -2744122514275444090
+    second: pigs no bg_208
+  - first:
+      213: -281984028342950194
+    second: pigs no bg_209
+  - first:
+      213: -6708053054297531053
+    second: pigs no bg_210
+  - first:
+      213: 3721111757711809946
+    second: pigs no bg_211
+  - first:
+      213: 6383382422733850551
+    second: pigs no bg_212
+  - first:
+      213: -4390415369425990069
+    second: pigs no bg_213
+  - first:
+      213: 3701382743398875784
+    second: pigs no bg_214
+  - first:
+      213: 7495949264617638886
+    second: pigs no bg_215
+  - first:
+      213: 3521077351687896087
+    second: pigs no bg_216
+  - first:
+      213: 8995046802542026957
+    second: pigs no bg_217
+  - first:
+      213: 5467652334179440816
+    second: pigs no bg_218
+  - first:
+      213: -3654289384894382544
+    second: pigs no bg_219
+  - first:
+      213: 2443820128493470036
+    second: pigs no bg_220
+  - first:
+      213: -7912596253952704271
+    second: pigs no bg_221
+  - first:
+      213: -6424959059198976661
+    second: pigs no bg_222
+  - first:
+      213: 5920758732221593509
+    second: pigs no bg_223
+  - first:
+      213: -372110924976468464
+    second: pigs no bg_224
+  - first:
+      213: 3078800675165410213
+    second: pigs no bg_225
+  - first:
+      213: -3867071763535485445
+    second: pigs no bg_226
+  - first:
+      213: 1643338120536550488
+    second: pigs no bg_227
+  - first:
+      213: -3457724316843590204
+    second: pigs no bg_228
+  - first:
+      213: 5004632451928351370
+    second: pigs no bg_229
+  - first:
+      213: 2395875607250283500
+    second: pigs no bg_230
+  - first:
+      213: -6763093797145783819
+    second: pigs no bg_231
+  - first:
+      213: 2946812113769204888
+    second: pigs no bg_232
+  - first:
+      213: 4773170561793772297
+    second: pigs no bg_233
+  - first:
+      213: -8387305556854154993
+    second: pigs no bg_234
+  - first:
+      213: -4765451825571073374
+    second: pigs no bg_235
+  - first:
+      213: -4246773989709076808
+    second: pigs no bg_236
+  - first:
+      213: -281014674046406462
+    second: pigs no bg_237
+  - first:
+      213: -5377615237460017161
+    second: pigs no bg_238
+  - first:
+      213: -5898714343957974521
+    second: pigs no bg_239
+  - first:
+      213: 5139913723591265401
+    second: pigs no bg_240
+  - first:
+      213: 2648498594386625395
+    second: pigs no bg_241
+  - first:
+      213: 4301372649048277199
+    second: pigs no bg_242
+  - first:
+      213: 9173696868862497004
+    second: pigs no bg_243
+  - first:
+      213: -7111874915343452562
+    second: pigs no bg_244
+  - first:
+      213: 1077563631888865800
+    second: pigs no bg_245
+  - first:
+      213: -8341192335044936916
+    second: pigs no bg_246
+  - first:
+      213: -5069466729712951922
+    second: pigs no bg_247
+  - first:
+      213: -1506274346669540004
+    second: pigs no bg_248
+  - first:
+      213: -6409681569880956380
+    second: pigs no bg_249
+  - first:
+      213: -187243184284753972
+    second: pigs no bg_250
+  - first:
+      213: -3905871369088621872
+    second: pigs no bg_251
+  - first:
+      213: 7143077382185156932
+    second: pigs no bg_252
+  - first:
+      213: -5388157207261919324
+    second: pigs no bg_253
+  - first:
+      213: 6549919530938312543
+    second: pigs no bg_254
+  - first:
+      213: -3594245839683775280
+    second: pigs no bg_255
+  - first:
+      213: 5893332704764365932
+    second: pigs no bg_256
+  - first:
+      213: 8357047336291218959
+    second: pigs no bg_257
+  - first:
+      213: 5006420469299799179
+    second: pigs no bg_258
+  - first:
+      213: 6701262538023903301
+    second: pigs no bg_259
+  - first:
+      213: 3380797382847679919
+    second: pigs no bg_260
+  - first:
+      213: -821774614991903613
+    second: pigs no bg_261
+  - first:
+      213: 1575158175824514382
+    second: pigs no bg_262
+  - first:
+      213: -3999241530518629837
+    second: pigs no bg_263
+  - first:
+      213: 4215430099785161847
+    second: pigs no bg_264
+  - first:
+      213: -5142103314483356234
+    second: pigs no bg_265
+  - first:
+      213: 734074613289361320
+    second: pigs no bg_266
+  - first:
+      213: -1566418458896280210
+    second: pigs no bg_267
+  - first:
+      213: -832549082498338777
+    second: pigs no bg_268
+  - first:
+      213: 6514852940442823425
+    second: pigs no bg_269
+  - first:
+      213: -8626203208820482646
+    second: pigs no bg_270
+  - first:
+      213: -6566521193697501704
+    second: pigs no bg_271
+  - first:
+      213: -5420020937810023555
+    second: pigs no bg_272
+  - first:
+      213: 5545513348925404381
+    second: pigs no bg_273
+  - first:
+      213: 8824682340845555221
+    second: pigs no bg_274
+  - first:
+      213: 310962228206838634
+    second: pigs no bg_275
+  - first:
+      213: 4278303982769899199
+    second: pigs no bg_276
+  - first:
+      213: -4771948752085557938
+    second: pigs no bg_277
+  - first:
+      213: -7315026555476366389
+    second: pigs no bg_278
+  - first:
+      213: 1613994920088703639
+    second: pigs no bg_279
+  - first:
+      213: -3600256911396048773
+    second: pigs no bg_280
+  - first:
+      213: 4921857184486518813
+    second: pigs no bg_281
+  - first:
+      213: 5430946144372568859
+    second: pigs no bg_282
+  - first:
+      213: 2767569156652434195
+    second: pigs no bg_283
+  - first:
+      213: -8484373907305381956
+    second: pigs no bg_284
+  - first:
+      213: 7887317444111388407
+    second: pigs no bg_285
+  - first:
+      213: -5807238870451633567
+    second: pigs no bg_286
+  - first:
+      213: -3212900813583672053
+    second: pigs no bg_287
+  - first:
+      213: 505775986672243739
+    second: pigs no bg_288
+  - first:
+      213: -6386710873722087116
+    second: pigs no bg_289
+  - first:
+      213: 2903149379468795453
+    second: pigs no bg_290
+  - first:
+      213: -5339273783815137265
+    second: pigs no bg_291
+  - first:
+      213: 4193100801433780678
+    second: pigs no bg_292
+  - first:
+      213: 3039219035072532091
+    second: pigs no bg_293
+  - first:
+      213: 1656809173815761227
+    second: pigs no bg_294
+  - first:
+      213: 8518368888007057
+    second: pigs no bg_295
+  - first:
+      213: 4477732077041556819
+    second: pigs no bg_296
+  - first:
+      213: -8677173901209621504
+    second: pigs no bg_297
+  - first:
+      213: 1736730320036376866
+    second: pigs no bg_298
+  - first:
+      213: 3679928274690755659
+    second: pigs no bg_299
+  - first:
+      213: -4317822777321966821
+    second: pigs no bg_300
+  - first:
+      213: -6740117566323079574
+    second: pigs no bg_301
+  - first:
+      213: 22302065200148139
+    second: pigs no bg_302
+  - first:
+      213: -1623125575781886177
+    second: pigs no bg_303
+  - first:
+      213: 7840716009446919434
+    second: pigs no bg_304
+  - first:
+      213: 4452494233420120151
+    second: pigs no bg_305
+  - first:
+      213: -5593841788162201026
+    second: pigs no bg_306
+  - first:
+      213: 3258378164918125670
+    second: pigs no bg_307
+  - first:
+      213: 4389088318499053871
+    second: pigs no bg_308
+  - first:
+      213: -8071971249882409629
+    second: pigs no bg_309
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pigs no bg_0
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1494
+        width: 687
+        height: 502
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e9c5c8fd35ec5e0800000000000000
+      internalID: -1887478974223966587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigs no bg_1
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1494
+        width: 669
+        height: 505
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e3c4d3f19fae60800000000000000
+      internalID: 7975753941529127210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigs no bg_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 356
+        width: 447
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f24c5670e3f3a0800000000000000
+      internalID: -6632711027227953401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigs no bg_3
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 345
+        width: 422
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c98ed324fa30820800000000000000
+      internalID: 2883340885488606276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigs no bg_4
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 947
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdf740857ca0a20800000000000000
+      internalID: 3029452880206617467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
