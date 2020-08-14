@@ -1,0 +1,1170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-08-14T16:21:03.988+03:00
+  initializedAtString: 2020-08-14T15:53:57.797+03:00
+  log:
+  - commitID: 7648a38c468e1807ffd07fda97858f5225609b2a
+    mergeA: 
+    mergeB: 
+    authorName: Daniel
+    authorEmail: danielozcarl@gmail.com
+    commitEmail: danielozcarl@gmail.com
+    commitName: Daniel
+    summary: V
+    description: V
+    timeString: 2020-08-14T16:21:00.000+03:00
+    commitTimeString: 2020-08-14T16:21:00.000+03:00
+    changes:
+    - path: Assets\Bomb.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Bomb.prefab
+      projectPath: Assets\Bomb.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bomb.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Bomb.prefab.meta
+      projectPath: Assets\Bomb.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack.meta
+      projectPath: Assets\Joystick Pack.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Documentaion.pdf
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Documentaion.pdf
+      projectPath: Assets\Joystick Pack\Documentaion.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Documentaion.pdf.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Documentaion.pdf.meta
+      projectPath: Assets\Joystick Pack\Documentaion.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples.meta
+      projectPath: Assets\Joystick Pack\Examples.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Example Scene.unity
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Example Scene.unity
+      projectPath: Assets\Joystick Pack\Examples\Example Scene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Example Scene.unity.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Example Scene.unity.meta
+      projectPath: Assets\Joystick Pack\Examples\Example Scene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Ground.mat
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Ground.mat
+      projectPath: Assets\Joystick Pack\Examples\Ground.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Ground.mat.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Ground.mat.meta
+      projectPath: Assets\Joystick Pack\Examples\Ground.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\JoystickPlayerExample.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs
+      projectPath: Assets\Joystick Pack\Examples\JoystickPlayerExample.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\JoystickPlayerExample.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs.meta
+      projectPath: Assets\Joystick Pack\Examples\JoystickPlayerExample.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\JoystickSetterExample.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\JoystickSetterExample.cs
+      projectPath: Assets\Joystick Pack\Examples\JoystickSetterExample.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\JoystickSetterExample.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\JoystickSetterExample.cs.meta
+      projectPath: Assets\Joystick Pack\Examples\JoystickSetterExample.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Player.mat
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Player.mat
+      projectPath: Assets\Joystick Pack\Examples\Player.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Examples\Player.mat.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Examples\Player.mat.meta
+      projectPath: Assets\Joystick Pack\Examples\Player.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs.meta
+      projectPath: Assets\Joystick Pack\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab
+      projectPath: Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab.meta
+      projectPath: Assets\Joystick Pack\Prefabs\Dynamic Joystick.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab
+      projectPath: Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab.meta
+      projectPath: Assets\Joystick Pack\Prefabs\Fixed Joystick.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Floating Joystick.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Floating Joystick.prefab
+      projectPath: Assets\Joystick Pack\Prefabs\Floating Joystick.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Floating Joystick.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Floating Joystick.prefab.meta
+      projectPath: Assets\Joystick Pack\Prefabs\Floating Joystick.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Variable Joystick.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Variable Joystick.prefab
+      projectPath: Assets\Joystick Pack\Prefabs\Variable Joystick.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Prefabs\Variable Joystick.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Prefabs\Variable Joystick.prefab.meta
+      projectPath: Assets\Joystick Pack\Prefabs\Variable Joystick.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts.meta
+      projectPath: Assets\Joystick Pack\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Base.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Base.meta
+      projectPath: Assets\Joystick Pack\Scripts\Base.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Base\Joystick.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Base\Joystick.cs
+      projectPath: Assets\Joystick Pack\Scripts\Base\Joystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Base\Joystick.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Base\Joystick.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Base\Joystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor.meta
+      projectPath: Assets\Joystick Pack\Scripts\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs
+      projectPath: Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs
+      projectPath: Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs
+      projectPath: Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs
+      projectPath: Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks.meta
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs.meta
+      projectPath: Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites.meta
+      projectPath: Assets\Joystick Pack\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Outline_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Plain_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\All Axis Backgrounds\AllAxis_Ridged_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Outline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Outline_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Plain.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Plain_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Handles\Handle_Ridged_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Outline_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Plain_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Horizontal Backgrounds\Horizontal_Ridged_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Outline_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Plain_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png.meta
+      projectPath: Assets\Joystick Pack\Sprites\Vertical Backgrounds\Vertical_Ridged_Arrows.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\MapPreloader.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\MapPreloader.cs
+      projectPath: Assets\MapPreloader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\MapPreloader.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\MapPreloader.cs.meta
+      projectPath: Assets\MapPreloader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Sprite Atlas.spriteatlas
+      fullPath: D:\UnityStuff\TestGit\Assets\New Sprite Atlas.spriteatlas
+      projectPath: Assets\New Sprite Atlas.spriteatlas
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Sprite Atlas.spriteatlas.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\New Sprite Atlas.spriteatlas.meta
+      projectPath: Assets\New Sprite Atlas.spriteatlas.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pig.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\Pig.prefab
+      projectPath: Assets\Pig.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Pig.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Pig.prefab.meta
+      projectPath: Assets\Pig.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PigScript.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\PigScript.cs
+      projectPath: Assets\PigScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PigScript.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\PigScript.cs.meta
+      projectPath: Assets\PigScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\UnityStuff\TestGit\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bomb.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\bomb.png
+      projectPath: Assets\Sprites\bomb.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bomb.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\bomb.png.meta
+      projectPath: Assets\Sprites\bomb.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\grid.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\grid.png
+      projectPath: Assets\Sprites\grid.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\grid.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\grid.png.meta
+      projectPath: Assets\Sprites\grid.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\level_without_markup.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\level_without_markup.png
+      projectPath: Assets\Sprites\level_without_markup.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\level_without_markup.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\level_without_markup.png.meta
+      projectPath: Assets\Sprites\level_without_markup.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\pigs no bg.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\pigs no bg.png
+      projectPath: Assets\Sprites\pigs no bg.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\pigs no bg.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\pigs no bg.png.meta
+      projectPath: Assets\Sprites\pigs no bg.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\stone.png
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\stone.png
+      projectPath: Assets\Sprites\stone.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\stone.png.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\Sprites\stone.png.meta
+      projectPath: Assets\Sprites\stone.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\stone.prefab
+      fullPath: D:\UnityStuff\TestGit\Assets\stone.prefab
+      projectPath: Assets\stone.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\stone.prefab.meta
+      fullPath: D:\UnityStuff\TestGit\Assets\stone.prefab.meta
+      projectPath: Assets\stone.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9c7555396bd82b99277a3a44e4adcd89bab98201
+    mergeA: 
+    mergeB: 
+    authorName: Daniel
+    authorEmail: danielozcarl@gmail.com
+    commitEmail: danielozcarl@gmail.com
+    commitName: Daniel
+    summary: Initial commit
+    description: 
+    timeString: 2020-08-06T21:41:56.000+03:00
+    commitTimeString: 2020-08-06T21:41:56.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\UnityStuff\TestGit\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
